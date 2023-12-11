@@ -1,0 +1,28 @@
+{
+  "teams": {
+    "team1": {
+      "name": "Team 1",
+      "members": {
+        "user1": true,
+        "user2": true
+      },
+      "quizes": {
+        "bdh-y3y3-bdbd": {
+          "name": "Quiz 1",
+          "chat": {
+            "message1": {
+              "sender": "user1",
+              "content": "Hi everyone!",
+              "timestamp": 1624747610
+            },
+            "message2": {
+              "sender": "user2",
+              "content": "Glad to be here!",
+              "timestamp": 1624747632
+            }
+          }
+        }
+      }
+    }
+  }
+}
